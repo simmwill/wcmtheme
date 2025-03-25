@@ -97,3 +97,7 @@ a {
 	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 15px;
 }
+
+.tocify-extend-page {
+  height: 0 !important;
+}
